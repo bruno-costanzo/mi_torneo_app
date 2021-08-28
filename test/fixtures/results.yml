@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  scoreA: 1
+  scoreB: 1
+  partido: one
+
+two:
+  scoreA: 1
+  scoreB: 1
+  partido: two
